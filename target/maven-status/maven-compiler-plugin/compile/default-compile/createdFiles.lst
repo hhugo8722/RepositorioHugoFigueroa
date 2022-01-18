@@ -1,0 +1,13 @@
+com\quasar\controller\ApiRestController.class
+com\quasar\entities\Mensaje.class
+com\quasar\entities\DistanciaSatelite.class
+com\quasar\services\ServiceImpl.class
+com\quasar\entities\Satelite.class
+com\quasar\exceptions\ExceptionLocalizar.class
+com\quasar\entities\Posicion.class
+com\quasar\entities\Nave.class
+com\quasar\services\GetLocationService.class
+com\quasar\BasicApplication.class
+com\quasar\controller\Response.class
+com\quasar\services\GetMessageService.class
+com\quasar\exceptions\MensajeException.class
